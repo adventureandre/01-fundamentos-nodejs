@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": "c97cd8f5-d71d-4248-a627-fdf6685f68b9",
+            "name": "andrere",
+            "email": "andre@gato"
+        },
+        {
+            "id": "8f556626-a3ba-43de-8493-84bf75a57b59",
+            "name": "andre",
+            "email": "andre@gato"
+        },
+        {
+            "id": "dbb01af2-b65c-44ce-a335-7ea2d4514278",
+            "name": "andre",
+            "email": "andre@gato"
+        },
+        {
+            "id": "245f6f0d-6dcc-44c0-a4b5-479cbdca9af8",
+            "name": "andre lido",
+            "email": "andre@gato"
+        }
+    ]
+}
